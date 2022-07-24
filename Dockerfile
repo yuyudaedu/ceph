@@ -1,1 +1,1 @@
-FROM ceph/ceph:v15.2.11
+FROM ceph/ceph:v16.2.9
